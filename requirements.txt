@@ -1,0 +1,6 @@
+streamlit
+pandas
+seaborn
+matplotlib
+google-generativeai
+python-dotenv
